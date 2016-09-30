@@ -1,7 +1,7 @@
 # team-blog
 ###中心技术博客
 
-使用方法：
+> 使用方法：
 1. 确保本机已经安装了 **git** 和 **node**
 2. 本地任意一个文件，终端执行 **git clone git@github.com:hfutDev/team-blog.git**
 3. **cd team-blog**   =>   **npm install**
