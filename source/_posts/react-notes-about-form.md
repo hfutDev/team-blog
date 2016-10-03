@@ -1,7 +1,7 @@
 ---
 title: React系列学习笔记之表单详解
 tags: react
-categories: Tech-study
+categories: fed
 ---
 
 ---
